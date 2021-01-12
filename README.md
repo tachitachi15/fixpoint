@@ -3,8 +3,7 @@
 python 3.7.3
 
 ### 設問１
-* 実行方法
-python fixpoint1.py "testdata.txt"
+* 実行方法  python fixpoint1.py "testdata.txt"
 
 * 実行結果
 10.20.30.1/16の故障期間は20201019133324から20201019133424まで
